@@ -1,58 +1,81 @@
-*{
-    padding: 0;
-    margin: 0;
-}
 body {
     background-color: rgb(253, 251, 251);
     font-family: 'Times New Roman', Times, serif;
     color: darkblue;
     font-size: medium;
     line-height: normal;
-    padding: 30px ;
+    padding: 25px ;
     margin: 0px;
-    border: 3px solid red;
 }
-
 #cabecalho {
     top: 0;
     position: fixed;
     background: rgb(0, 0, 22);
-    width: 100%;
     text-align: center;
     z-index: 1;
-    border: 3px solid red;
     color: white;
     left: 0;
-
+    padding: 5px;
+    width: 100%;
+}
+#section_perfil {
+    text-align: center;  
+    position: relative; 
+    top:50px;
+    padding: 20px;
 }
 #minha_foto {
-
     border-radius:100%;
     width: 200px;
 }  
-#section_perfil {
-    text-align: center;
-    
-}
-aside {
-    text-align: center;
-    font-size: large;
-}
-
-main {
-    position: relative;
-    width: 100%;
-    top: 100px;
-    
+article, section, nav, aside  {
+    margin:20px;
+    padding:10px;
 }
 table,tr,td {
     border: 3px solid black;
+    text-align: center;
 }
+table {
+    position: relative;
+    left: 30%;
+    width: 500px;
+}
+#Bio {
+    display: flex;
+    padding: 5px;
+}
+.lado-direito{
+    
+    font-size: large;
+    float: right;
+    width: 40%;
+    text-align: center;
+    padding: 10px;
+    margin: 50px;
+    border: 2px solid black;
+
+}
+.lado-esquerdo{
+
+    font-size: large;
+    float: left;
+    width: 40%;
+    text-align: center;
+    padding: 10px;
+    margin: 50px;
+    border: 2px solid black;
+}
+
 #rodape {
     background: grey;
     position: absolute;
-    bottom: 0px;
-    border: 3px solid red;
-    width: 100%;
-   
+    width: 98.5%;
+    left: 0;
+    padding: 10px;  
+    margin: 0px; 
+    text-align: center;
+}
+/*#devby {
+    text-align: center;
 }
