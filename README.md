@@ -11,7 +11,7 @@ Neste projeto, você será capaz de:
 
 ## O que foi desenvolvido
 
-Uma página em HTML estilizada com CSS, que contém uma série de informações sobre o que aprendi na Trybe ao longo dos últimos três blocos. O site tem elementos posicionados e estilizados e além disto, possui semântica apropriada para que seja acessível e melhor ranqueado.
+   Uma página em HTML estilizada com CSS, que contém uma série de informações sobre o que aprendi na Trybe ao longo dos últimos três blocos. O site tem elementos posicionados e estilizados e além disto, possui semântica apropriada para que seja acessível e melhor ranqueado.
 
 
 ## Requisitos - 100%
