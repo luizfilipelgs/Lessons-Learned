@@ -46,7 +46,6 @@ table {
     padding: 5px;
 }
 .lado-direito{
-    
     font-size: large;
     float: right;
     width: 40%;
@@ -54,7 +53,6 @@ table {
     padding: 10px;
     margin: 50px;
     border: 2px solid black;
-
 }
 .lado-esquerdo{
 
@@ -74,8 +72,5 @@ table {
     left: 0;
     padding: 10px;  
     margin: 0px; 
-    text-align: center;
-}
-/*#devby {
     text-align: center;
 }
