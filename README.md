@@ -1,8 +1,8 @@
-
+# Boas-vindas ao repositório do Projeto Lessons-Learned!
 
 ## Habilidades
 
-Neste projeto, você será capaz de:
+Neste projeto, fui capaz de:
 
 * Utilizar _HTML_ para construir páginas WEB.
 * Utilizar _HTML_ semântico para tornar sua página mais acessível e melhor ranqueada.
